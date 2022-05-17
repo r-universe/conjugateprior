@@ -16,6 +16,6 @@
 	registered = true
 [submodule "austin"]
 	path = austin
-	url = https://github.com/conjugateprior/events
+	url = https://github.com/conjugateprior/austin
 	shallow = true
 	registered = true
