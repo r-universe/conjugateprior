@@ -19,3 +19,8 @@
 	url = https://github.com/conjugateprior/austin
 	shallow = true
 	registered = true
+[submodule "cbn"]
+	path = cbn
+	url = https://github.com/conjugateprior/cbn
+	shallow = true
+	registered = true
