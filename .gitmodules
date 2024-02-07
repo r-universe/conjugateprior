@@ -1,17 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/conjugateprior/universe
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "austin"]
-	path = austin
-	url = https://github.com/conjugateprior/austin
-[submodule "cbn"]
-	path = cbn
-	url = https://github.com/conjugateprior/cbn
-[submodule "events"]
-	path = events
-	url = https://github.com/conjugateprior/events
-	branch = cran
 [submodule "twfy"]
 	path = twfy
 	url = https://github.com/conjugateprior/twfy
